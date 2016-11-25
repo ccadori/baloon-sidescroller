@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: c85031587a1f205479ce59b4cbbcf4ea
+timeCreated: 1429926344
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: clouds and baloon_0
+    21300002: clouds and baloon_1
+    21300004: clouds and baloon_2
+    21300006: clouds and baloon_3
+    21300008: clouds and baloon_4
+    21300010: clouds and baloon_5
+    21300012: clouds and baloon_6
+    21300014: clouds and baloon_7
+    21300016: clouds and baloon_8
+    21300018: clouds and baloon_9
+    21300020: clouds and baloon_10
+    21300022: clouds and baloon_11
+    21300024: clouds and baloon_12
+    21300026: clouds and baloon_13
+    21300028: clouds and baloon_14
+    21300030: clouds and baloon_15
+    21300032: clouds and baloon_16
+    21300034: clouds and baloon_17
+    21300036: clouds and baloon_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: clouds and baloon_0
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 766
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clouds and baloon_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 762
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clouds and baloon_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 795
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clouds and baloon_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 805
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clouds and baloon_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 675
+        width: 472
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clouds and baloon_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 769
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clouds and baloon_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 724
+        width: 144
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clouds and baloon_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 716
+        width: 78
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clouds and baloon_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 167
+        width: 307
+        height: 501
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clouds and baloon_12
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 533
+        width: 324
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clouds and baloon_14
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 372
+        width: 264
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clouds and baloon_17
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 173
+        width: 408
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
